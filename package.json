@@ -32,7 +32,7 @@
     "nodemailer-shared": "1.0.5",
     "nodemailer-smtp-pool": "2.7.0",
     "nodemailer-smtp-transport": "2.6.0",
-    "socks": "https://github.com/joanthethings/socks.git#updateip"
+    "socks": "https://github.com/theThings/socks.git#updateip"
   },
   "devDependencies": {
     "amqp": "^0.2.6",
