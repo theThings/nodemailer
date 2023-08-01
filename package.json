@@ -20,12 +20,13 @@
     "ses",
     "smtp"
   ],
-  "author": "Andris Reinman",
+  "author": "TheThings.io",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nodemailer/nodemailer/issues"
   },
   "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
     "libmime": "3.0.0",
     "mailcomposer": "4.0.0",
     "nodemailer-direct-transport": "3.3.2",
